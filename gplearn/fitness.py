@@ -165,3 +165,8 @@ _fitness_map = {'pearson': weighted_pearson,
                 'mse': mean_square_error,
                 'rmse': root_mean_square_error,
                 'log loss': log_loss}
+
+
+
+# KL dispearse, multual information, entropy
+
